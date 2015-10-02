@@ -198,7 +198,7 @@
   <string name="local_image">Fotos</string>
   <string name="local_music">Musik</string>
   <string name="local_video">Video</string>
-  <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehrere Geräte.</string>
+  <string name="login_reg_content">Speichern von Dateien und Synchronisierung auf mehreren Geräte.</string>
   <string name="login_reg_content0">Alle Ihre Inhalte. Wohin Sie auch gehen.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Dateibereinigung</string>
