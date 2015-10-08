@@ -162,11 +162,11 @@
   <string name="gigabyteShort">GB</string>
   <string name="group_title">%2$s from %1$s</string>
   <string name="group_title_extra_backup">Backups</string>
-  <string name="group_title_extra_expire">About to expire</string>
-  <string name="group_title_extra_new">New</string>
-  <string name="instruction">Enter the following address into an FTP client:</string>
-  <string name="instruction_pre">Touch um FTP-Server zu starten.r</string>
-  <string name="just_now">just now</string>
+  <string name="group_title_extra_expire">Läuft bald ab</string>
+  <string name="group_title_extra_new">Neu</string>
+  <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten"</string>
+  <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
+  <string name="just_now">jetzt</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategorie</string>
   <string name="kp_category_doc">Word</string>
