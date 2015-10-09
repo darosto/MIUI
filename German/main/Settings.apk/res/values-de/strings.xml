@@ -2689,7 +2689,7 @@ Dies wird durch vertrauenswürdige Anmeldedaten ermöglicht, die auf Ihrem Gerä
   <string name="status_bar_settings_custom_notification">Benachrichtigungen anpassen</string>
   <string name="status_bar_settings_custom_wifi_name">WLAN-Name bearbeiten</string>
   <string name="status_bar_settings_enable_notification">Benachrichtigungen erlauben</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Auf dem Sperrbildschirm aktivieren</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Auf dem Sperrbildschirm anzeigen</string>
   <string name="status_bar_settings_long_click_sort">Zum Sortieren Drücken &amp; halten</string>
   <string name="status_bar_settings_manage_notification">Benachrichtigungen anpassen</string>
   <string name="status_bar_settings_no_carrier">Keiner</string>
@@ -2820,8 +2820,8 @@ Mit dieser Funktion von Google können Sie Ihre Daten synchronisieren, um von ü
   <string name="time_zone_auto_stub">Zeitzone auswählen</string>
   <string name="timezone_settings">Zeitzone</string>
   <string name="title_color_calibration">Farbkorrektur Voreinstellung</string>
-  <string name="title_font">Font</string>
-  <string name="title_font2">Font</string>
+  <string name="title_font">Schriftart</string>
+  <string name="title_font2">Schriftart</string>
   <string name="title_font_current">Systemschriftart</string>
   <string name="title_font_current2">Systemschriftart</string>
   <string name="title_font_size">Schriftgröße</string>
@@ -3356,10 +3356,10 @@ WLAN Assistent"</string>
   <string name="wifi_failed_forget_message">Netzwerk entfernen fehlgeschlagen</string>
   <string name="wifi_failed_save_message">Netzwerk speichern fehlgeschlagen</string>
   <string name="wifi_forget">Entfernen</string>
-  <string name="wifi_frequency">Frequency</string>
+  <string name="wifi_frequency">Frequenz</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_hotspot_checkbox_text">Wi‑Fi hotspot</string>
+  <string name="wifi_hotspot_checkbox_text">WLAN Hotspot</string>
   <string name="wifi_hotspot_checkbox_text_summary">Verwenden Sie Mobilfunkverbindung, um ein WLAN-Netzwerk bereitzustellen</string>
   <string name="wifi_hotspot_configure_ap_text">WLAN Hotspot Einrichtung</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK tragbarer WLAN Hotspot</string>
